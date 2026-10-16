@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ojo Ciudadano
 
 Sistema de reportes ciudadanos para Pereira, Risaralda: los ciudadanos
@@ -44,3 +45,7 @@ python manage.py migrate
 python manage.py runserver
 curl http://localhost:8000/api/v1/health/
 ```
+=======
+# ojo_ciudadano
+Repositorio encargado para sumistrar la informacion del ojo ciudadano
+>>>>>>> e132c79ac60e8c8968bb754e06043b12cdf4a797
